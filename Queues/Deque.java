@@ -1,7 +1,7 @@
 /* *****************************************************************************
  *  Name: Mourya Karan Reddy (aiBoss)
  *  Date: 10/17/2018
- *  Description: Deques and Randomized Queues Assignment for Algorithms-I
+ *  Description: DoubleEndedQueues and Randomized Queues Assignment for Algorithms-I
  **************************************************************************** */
 
 import java.util.Iterator;
